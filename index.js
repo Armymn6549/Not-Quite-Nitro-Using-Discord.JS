@@ -3,7 +3,7 @@ const client = new discord.Client();
 
 client.on("ready", () => {
     console.log("[--------------------- R E A D Y ---------------------]");
-    client.user.setActivity("I Simp for Quix#0004");
+    client.user.setActivity("I Simp for Obama#2008");
 })
 
 client.on("message", async (message) => {
