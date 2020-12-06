@@ -51,7 +51,7 @@ client.on("message", async (message) => {
 
 
 
-client.login("NzYxNjc5NzI2Njk1Njc3OTkz.X3eHhg.GvRD6xB4c08AUzShXlABSF08evI");
+client.login(process.env.DISCORD_TOKEN);
 
 
 //--------------------------------------------------- F U N C T I O N S --------------------------------------
